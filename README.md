@@ -1,4 +1,4 @@
-# Sampling_imbalance_study
+# Sampling imbalance study
 
 Study of the impact of sample imbalance on the quality of models using the example of a churn forecast
 
